@@ -1,0 +1,4 @@
+flask
+requests
+markdown2
+tqdm
